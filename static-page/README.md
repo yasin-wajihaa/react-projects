@@ -1,16 +1,68 @@
-# React + Vite
+# ReactFacts – Static React Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project built with Vite that displays fun facts about React.
 
-Currently, two official plugins are available:
+---
+## 🛠 Built With
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- JavaScript (JSX)
+- CSS
+---
+## 🖼 Preview
 
-## React Compiler
+public/preview.png
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
+## 📂 Project Structure
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+src/
+├── components/
+│ ├── navbar.jsx
+│ └── mainnav.jsx
+├── App.jsx
+├── App.css
+├── index.css
+└── main.jsx
+
+---
+## ▶️ How to Run Locally
+
+1️⃣ Clone the repository
+
+
+git clone https://github.com/yasin-wajihaa/react-projects.git
+
+
+2️⃣ Navigate into the project folder
+
+
+cd static-page
+
+
+3️⃣ Install dependencies
+
+
+npm install
+
+
+4️⃣ Start development server
+
+npm run dev
+
+---
+## 📚 What I Learned
+
+- How React components work
+- JSX syntax
+- Component structure
+- Basic styling in React
+- Using Vite for React setup
+
+---
+## ✨ Author
+
+Wajihaa
+GitHub: https://github.com/yasin-wajihaa
