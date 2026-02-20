@@ -12,12 +12,12 @@ A simple React project built with Vite that displays fun facts about React.
 ---
 ## 🖼 Preview
 
-public/preview.png
+![Project Preview](public/preview.png)
 
 ---
 ## 📂 Project Structure
 
-
+```
 src/
 ├── components/
 │ ├── navbar.jsx
@@ -26,7 +26,7 @@ src/
 ├── App.css
 ├── index.css
 └── main.jsx
-
+```
 ---
 ## ▶️ How to Run Locally
 
@@ -64,5 +64,5 @@ npm run dev
 ---
 ## ✨ Author
 
-Wajihaa
-GitHub: https://github.com/yasin-wajihaa
+**Wajihaa**  
+[GitHub Profile](https://github.com/yasin-wajihaa)
