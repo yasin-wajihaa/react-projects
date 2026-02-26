@@ -24,7 +24,7 @@ export default function Entry(props) {
                 
                 
                 <h2 className= "entry-title" > {props.entry.title} </h2>  
-                <p className= "entry-date" > {props.entry.dates}</p>   
+                <p className= "entry-dates" > {props.entry.dates}</p>   
                 <p className= "entry-text" > {props.entry.text}</p>      
             </div>
 
